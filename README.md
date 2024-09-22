@@ -30,6 +30,6 @@ This repository is dedicated to my journey through the "100 Days of Code: The Co
 ## Let's Connect!
 
 * Follow my progress on 
-* Let's connect on LinkedIn: [[your LinkedIn profile link]](https://www.linkedin.com/in/pranavraveendran/)
+* Let's connect on LinkedIn: [[Pranav Reveendran]](https://www.linkedin.com/in/pranavraveendran/)
 
 Let's code! 🚀
