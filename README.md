@@ -15,7 +15,7 @@ This repository is dedicated to my journey through the "100 Days of Code: The Co
 
 | Day | Program | Description |
 |---|---|---|
-| 1 | [Band Name Generator](day1_band_name_generator.py) | Creates a band name based on user input. |
+| 1 | [Band Name Generator](https://pranu98.github.io/100-Days-of-Coding-With-Python/day1_band_name_generator.html) | Creates a band name based on user input. |
 | 2 |  |  |
 | 3 |  |  |
 | ... |  |  |
